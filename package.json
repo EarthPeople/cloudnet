@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "koa": "^1.2.4"
+    "koa": "^1.2.4",
+    "mongorito": "^2.2.0"
   },
   "devDependencies": {
     "standard": "^8.6.0"
